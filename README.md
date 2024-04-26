@@ -37,7 +37,6 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=191724)
 
 <br>
-<br>
 
 ## Projetos
 
