@@ -41,7 +41,7 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 
 ## Projetos
 
-<a  href="https://github.com/ad-melo/dio-lab-open-source">
+<a  href="https://github.com/ad-melo/ebook-store">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ad-melo&repo=ebook-store&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
 </a>
 
