@@ -1,5 +1,3 @@
-<img align="center" alt="Foto de Christopher Gower na Unsplas" src="https://github.com/AgathaNascimento/AgathaNascimento/assets/104841024/2c996f9f-981c-4b93-bdd0-eb584ac8c3c1">
-
 # Olá! Me chamo Almir 👋
 
 ### Bem-vindo ao meu perfil do GitHub! 
