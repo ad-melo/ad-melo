@@ -14,10 +14,10 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=191724)](mailto:almir.daniel@mail.uft.edu.br)
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/ad-melo/github-readme-stats">
+  <a>
     <img src="https://github-readme-stats.vercel.app/api?username=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="400" />
   </a>
-  <a href="https://github.com/ad-melo/convoychat">
+  <a>
     <img src="https://streak-stats.demolab.com?user=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="400" />
   </a>
 </div>
@@ -44,17 +44,6 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 <a  href="https://github.com/ad-melo/dio-lab-open-source">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ad-melo&repo=ebook-store&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
 </a>
-
-<br>
-
-<details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/ad-melo/github-readme-stats">ad-melo</a>
-  - Foto de <a href="https://unsplash.com/pt-br/@cgower?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christopher Gower</a> na <a href="https://unsplash.com/pt-br/fotografias/um-macbook-com-linhas-de-codigo-na-tela-em-uma-mesa-ocupada-m_HRfLhgABo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> (edited by author)
- 
-</details>
 
 
 
