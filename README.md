@@ -10,15 +10,15 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 - 📫 Você pode me encontrar em:
   
 [![DIO](https://img.shields.io/badge/Meu_perfil_da_DIO-191724?style=for-the-badge)]() 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=191724)](https://www.linkedin.com/in/almir-coelho-958a27305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4e676c)](https://www.linkedin.com/in/almir-coelho-958a27305/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=191724)](mailto:almir.daniel@mail.uft.edu.br)
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
   </a>
   <a>
-    <img src="https://streak-stats.demolab.com?user=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="400" />
+     <img src="https://streak-stats.demolab.com?user=ad-melo&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true" width="51%" />
   </a>
 </div>
 
@@ -29,11 +29,11 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 </a>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=191724)
-![C](https://img.shields.io/badge/C-E94D5F?style=for-the-badge&logo=c&logoColor=white&color=191724)
+![C](https://img.shields.io/badge/C-E94D5F?style=for-the-badge&logo=c&logoColor=white&color=4e676c)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=191724)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=191724)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=4e676c)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=191724)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=191724)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=4e676c)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=191724)
 
 <br>
