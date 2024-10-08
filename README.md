@@ -34,7 +34,8 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=191724)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=4e676c)
 ![React Native](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=191724)
-![Typescript](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=4e676c)
+![Typescript](https://img.shields.io/badge/Typescript-4e676c)
+
 
 <br>
 
