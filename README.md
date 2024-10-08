@@ -9,7 +9,6 @@ Estou aprendendo programação, com foco em PHP e Java, utilizando o MySQL como 
 - ⚡ Fun fact: Nas horas vagas adoro jogar um Valorant
 - 📫 Você pode me encontrar em:
   
-[![DIO](https://img.shields.io/badge/Meu_perfil_da_DIO-191724?style=for-the-badge)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4e676c)](https://www.linkedin.com/in/almir-coelho-958a27305/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=191724)](mailto:almir.daniel@mail.uft.edu.br)
 
